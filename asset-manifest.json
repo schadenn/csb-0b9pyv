@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://schadenn.github.io/csb-0b9pyv/static/css/main.05b50d4d.chunk.css",
+    "main.js": "https://schadenn.github.io/csb-0b9pyv/static/js/main.6f946a95.chunk.js",
+    "main.js.map": "https://schadenn.github.io/csb-0b9pyv/static/js/main.6f946a95.chunk.js.map",
+    "runtime-main.js": "https://schadenn.github.io/csb-0b9pyv/static/js/runtime-main.b1877cbc.js",
+    "runtime-main.js.map": "https://schadenn.github.io/csb-0b9pyv/static/js/runtime-main.b1877cbc.js.map",
+    "static/js/2.865c89a9.chunk.js": "https://schadenn.github.io/csb-0b9pyv/static/js/2.865c89a9.chunk.js",
+    "static/js/2.865c89a9.chunk.js.map": "https://schadenn.github.io/csb-0b9pyv/static/js/2.865c89a9.chunk.js.map",
+    "index.html": "https://schadenn.github.io/csb-0b9pyv/index.html",
+    "static/css/main.05b50d4d.chunk.css.map": "https://schadenn.github.io/csb-0b9pyv/static/css/main.05b50d4d.chunk.css.map",
+    "static/js/2.865c89a9.chunk.js.LICENSE.txt": "https://schadenn.github.io/csb-0b9pyv/static/js/2.865c89a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1877cbc.js",
+    "static/js/2.865c89a9.chunk.js",
+    "static/css/main.05b50d4d.chunk.css",
+    "static/js/main.6f946a95.chunk.js"
+  ]
+}
